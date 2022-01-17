@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Blondeli/nft-preview-card-component](https://github.com/Blondeli/nft-preview-card-component)
-- Live Site URL: [https://blondeli.github.io/nft-preview-card-component/](https://blondeli.github.io/nft-preview-card-component/)
+- Solution URL: [https://github.com/Blondeli/3-column-preview-card-component](https://github.com/Blondeli/3-column-preview-card-component)
+- Live Site URL: [https://blondeli.github.io/3-column-preview-card-component/](https://blondeli.github.io/3-column-preview-card-component/)
 
 ## My process
 
