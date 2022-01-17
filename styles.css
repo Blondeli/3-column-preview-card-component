@@ -84,6 +84,7 @@ button {
 .card:nth-of-type(3) button:hover {
   background: rgba(0, 0, 0, 0);
   color: var(--very-light-gray);
+  cursor: pointer;
 }
 
 /* Desktop layout */
